@@ -1,0 +1,16 @@
+- Deberá solicitar al usuario el ingreso de la cantidad de horas, 
+luego el ingreso de la cantidad de minutos y luego el ingreso de la
+cantidad de segundos, con esos tres valores deberá invocar a la función 
+conv_hms_a_seg  y utilizar el resultado que retorna esa función, 
+para asignarlo a una variable.
+
+- Luego deberá solicitar al usuario el ingreso de otra cantidad de horas,
+ luego el ingreso de la cantidad de minutos y luego el ingreso de la 
+ cantidad de segundos, con esos tres valores deberá invocar a la función 
+ conv_hms_a_seg  y utilizar el resultado que retorna esa función para sumarlo 
+ a la variable anteriormente mencionada.
+
+- Luego con el valor de la variable mencionada, 
+deberá invocar a la función conv_seg_a_hms  y utilizar el resultado que 
+retorna esa función para mostrar en pantalla (de manera descriptiva) los
+valores en horas, minutos y segundos.
